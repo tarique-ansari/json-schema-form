@@ -1,4 +1,4 @@
-# Angular6-json-schema-form
+# json-schema-form
 
 [![Build Status](https://travis-ci.org/hamzahamidi/Angular6-json-schema-form.svg?branch=master)](https://travis-ci.org/hamzahamidi/Angular6-json-schema-form)
 [![Maintainability](https://api.codeclimate.com/v1/badges/dfbee5b888425221bca6/maintainability)](https://codeclimate.com/github/hamzahamidi/Angular6-json-schema-form/maintainability)
